@@ -14,7 +14,7 @@ and LaTeX_
 - [Sectoral uncertainty spillovers in emerging markets: A quantile time-frequency connectedness approach](https://github.com/tamdang100/research1)
 - [
 Firm productivity in the Energy-electricity sector over the last two decades with crisis: The role of cross-listing](https://github.com/tamdang100/research2)
-- [Measuring the Energy-related Uncertainty Index](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Measuring the Energy-related Uncertainty Index](https://github.com/tamdang100/research3)
 - [The geopolitical risk spillovers across BRICS countries: A quantile frequency connectedness approach](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 ## Data Analytics projects
