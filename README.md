@@ -18,7 +18,7 @@ and LaTeX_
 - [**The geopolitical risk spillovers across BRICS countries: A quantile frequency connectedness approach**](https://github.com/tamdang100/research4)
 
 ## Data Analytics projects
-- [**SQL projects**](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [**SQL projects**](https://github.com/tamdang100/sql_ecom)
 - [**Power BI projects**](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [**Python projects**](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
