@@ -1,4 +1,8 @@
-<h1>Hi, I'm Tam! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# Data Scientist
+
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+<h1>Hoang Nhat Tam Dang <br/><a href="https://sites.google.com/view/tamdang">PhD candidate in Finance</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
