@@ -20,7 +20,7 @@ and LaTeX_
 ## Data Analytics projects
 - [**SQL projects**](https://github.com/tamdang100/sql_ecom)
 - [**Power BI projects**](https://github.com/tamdang100/powerbi/)
-- [**Python projects**](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [**Python projects**](https://github.com/tamdang100/python_projects)
 
 <h2> Connect with me</h2>
 
