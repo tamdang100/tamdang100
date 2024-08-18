@@ -24,10 +24,9 @@ and LaTeX_
 
 ## Certificates
 - [**Advanced Risk and Portfolio Management (ARPM) Quant Bootcamp**](https://github.com/tamdang100/tamdang100/blob/main/Certificates/Quant_bootcamp.pdf)
-- **SQL**: [SQL (Basic)](https://www.hackerrank.com/certificates/d2f2437bc2a1); [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/bf7196a233a7c2827a0891f47d11e63be055adcd?raw=1)
+- **SQL**: [SQL Intermediate](https://www.hackerrank.com/certificates/9a16bc01cd24?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate); [SQL Advanced](https://www.hackerrank.com/certificates/e599d5b205dc?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
+- **Python**: [Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/89ed77ce4e38ba3fabd07ce1dab9e9b256c02807?raw=1)
 - **Power BI**: [Data Modeling in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/c3305f6a12602e565e251bf4ab396049674ae1ae?raw=1); [DAX Functions in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/be6bfe2ff2211300ab60baede5f22ce618b9e18e?raw=1)
-- **Python**: [Data Modeling in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/c3305f6a12602e565e251bf4ab396049674ae1ae?raw=1); [DAX Functions in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/be6bfe2ff2211300ab60baede5f22ce618b9e18e?raw=1)
-
 
 
 
