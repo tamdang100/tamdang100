@@ -36,12 +36,20 @@ and LaTeX
 
 <h2> Connect with me</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][scholar]
-
+[<img align="left" alt="TamDang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TamDang | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][scholar]
+[<img align="left" alt="TamDang | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
 
 [scholar]: https://scholar.google.com/citations?user=THEA4PcAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/tam-dang-572724134/
+[youtube]: https://youtube.com/playlist?list=PL6lpQE_kLpHfpRgdwkSf2VO3p5iL9QP11&si=PdDpTMmW4Fz3b_Pt
+
+
+
+
+
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
