@@ -1,12 +1,12 @@
 # <a href="https://sites.google.com/view/tamdang">PhD candidate in Finance</a>
 
 ## Core Competencies
-- **Statistical Analysis:** _Stata, SQL, Python (Pandas, BeautifulSoup, Selenium, Eikon Data API), R (Connectedness 
-Approach)_								       		
-- **Data Management:** _Data cleaning, transformation, and visualization using Power Query and Power BI; 
-retrieving data from Refinitiv Workspace and WRDS_
-- **Research & Reporting:** _Empirical modelling and analysis, research writing, and manuscript preparation with Microsoft Office 
-and LaTeX_
+- **Statistical Analysis:** Stata, SQL, Python (Pandas, BeautifulSoup, Selenium, Eikon Data API), R (Connectedness 
+Approach)								       		
+- **Data Management:** Data cleaning, transformation, and visualization using Power Query and Power BI; 
+retrieving data from Refinitiv Workspace and WRDS
+- **Research & Reporting:** Empirical modelling and analysis, research writing, and manuscript preparation with Microsoft Office 
+and LaTeX
 
 
 
