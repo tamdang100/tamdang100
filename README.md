@@ -22,6 +22,13 @@ and LaTeX_
 - [**Power BI projects**](https://github.com/tamdang100/powerbi/)
 - [**Python projects**](https://github.com/tamdang100/python_projects)
 
+## Certificates
+- **SQL**: [SQL (Basic)](https://www.hackerrank.com/certificates/d2f2437bc2a1)); [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/bf7196a233a7c2827a0891f47d11e63be055adcd?raw=1)
+- **Power BI**: [Data Modeling in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/c3305f6a12602e565e251bf4ab396049674ae1ae?raw=1)); [DAX Functions in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/be6bfe2ff2211300ab60baede5f22ce618b9e18e?raw=1)
+- **Python**: [Data Modeling in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/c3305f6a12602e565e251bf4ab396049674ae1ae?raw=1)); [DAX Functions in Power BI](https://www.datacamp.com/statement-of-accomplishment/course/be6bfe2ff2211300ab60baede5f22ce618b9e18e?raw=1)
+
+
+
 <h2> Connect with me</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
