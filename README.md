@@ -20,7 +20,7 @@ and LaTeX
 ## Data Analytics projects
 - [**SQL projects**](https://github.com/tamdang100/sql_ecom)
 - [**Power BI projects**](https://github.com/tamdang100/powerbi/)
-- [**Python projects**](https://github.com/tamdang100/python_projects)
+- [**Python projects**](https://github.com/tamdang100/python_main)
 
 ## Certificates
 - [**Advanced Risk and Portfolio Management (ARPM) Quant Bootcamp**](https://github.com/tamdang100/tamdang100/blob/main/Certificates/Quant_bootcamp.pdf)
